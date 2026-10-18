@@ -1,0 +1,46 @@
+## When to Use It
+- **Spontaneous Decisions**: Actions decided at the moment of speaking (e.g., "I’m hungry, I will order pizza.").
+- **Predictions**: Opinions or forecasts about the future (e.g., "I think it will rain tomorrow.").
+- **Promises** and Offers: Committing to do something or offering help (e.g., "I will help you with your homework.").
+- Future Intentions: Plans or decisions made **before speaking** (less formal than *be going to*).
+- **General Facts** about the Future: Things that are generally expected to happen.
+- Formal/British English: *Shall* is often used in formal contexts or suggestions, especially with *I* or *we*.
+- ## Grammatical Structure
+  
+  The structure for *will* and *shall* is very straightforward, as they are modal verbs.
+- ### Affirmative
+	- Structure: `Subject + will / shall + Verb (base form)`
+	- *Note:* The verb following *will* or *shall* is always in its base form (infinitive without 'to').
+- ### Negative
+	- Structure: `Subject + will not (won't) / shall not (shan't) + Verb (base form)`
+	- *Note:* Use the contraction for fluency. *Won't* and *shan't* are the standard negative forms.
+- ### Interrogative
+	- Structure: `Will / Shall + Subject + Verb (base form) + ?`
+- ## Examples
+- I will call you later. (Spontaneous decision)
+- She will probably win the race. (Prediction)
+- We won't forget this trip. (Promise/Intention)
+- Shall we start the meeting now? (Suggestion/Formal offer)
+- ## Practice Flashcards #card #vers
+- When do we use will instead of be going to? #card #vers
+	- Use *will* for spontaneous decisions and predictions (based on opinion), whereas *be going to* is used for pre-planned intentions or predictions based on current evidence.
+- What is the structure of an affirmative sentence using will? #card #vers
+	- Subject + will/shall + Verb (base form).
+- How do you form a negative sentence using will? #card #vers
+	- Subject + won't + Verb (base form).
+- What is the contraction for will not? #card #vers
+	- won't.
+- Translate to English: "Yo llamaré más tarde." #card #vers
+	- I will call you later.
+- Translate to English: "Ella no irá a la fiesta." #card #vers
+	- She won't go to the party.
+- How do you form a question using will? #card #vers
+	- Will + Subject + Verb (base form) + ?
+- Why is the main verb *not* conjugated (no -s, no -es) after *will*? #card #vers
+	- Because *will* is a modal verb, and modal verbs are always followed by the base form of the main verb.
+- Which auxiliary verb is used for suggestions, especially in British English? #card #vers
+	- Shall.
+- Translate to English: "¿Vendrás a la reunión mañana?" #card #vers
+	- Will you come to the meeting tomorrow?
+- What is the main difference in meaning between "I will study" and "I am going to study"? #card #vers
+	- "I will study" implies a decision made right now; "I am going to study" implies a pre-planned intention.**
