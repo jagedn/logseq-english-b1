@@ -1,0 +1,5 @@
+- I **eat ---** a lot because I often don't have time to cook
+- I'm trying to **cut ----** coffee at the moment
+- The doctor told me that I should completely **cut ----** all cheese from my diet
+-
+-

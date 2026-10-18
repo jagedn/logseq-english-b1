@@ -1,4 +1,10 @@
-### 1. English to Spanish #card
+### 1. English to Spanish
+card-last-interval:: -1
+card-repeats:: 0
+card-ease-factor:: 2.5
+card-last-reviewed:: nil
+card-next-schedule:: nil
+card-last-score:: nil
 - Crab #card #Food
 	- Cangrejo
 - lobster #card #Food
