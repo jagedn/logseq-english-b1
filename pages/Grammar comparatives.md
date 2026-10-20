@@ -1,0 +1,41 @@
+- I take the bus to work because it's **more quickly** than going by car #card #grammar
+	- wrong. Quicker
+- Olga drives **more carefully** than Bill #card #grammar
+	- correct
+- I prefer visiting Paring in winter. It's **less crowded** than in summer #card #grammar
+	- wrong. Crowder
+- Now I've tried them on, these shoes are **more comfortable that** I thought they were goint to be #card #grammar
+	- correct
+- In this photo you look **more young than** your sister #card #grammar
+	- wrong. incorrect
+- Black cabs in London are **more expessive than** other taxis #card #grammar
+	- correct
+- Anne's **not as tall as** Susie #card #grammar
+	- wrong. Taller
+- German tranins are **moderner than** Brithis one #card #grammar
+	- wrong. More modern
+- I love riding my scooter, it's **more better than** driving a car #card #grammar
+	- wrong. Better
+- Can you say that again *more slowly**, plese? #card #grammar
+	- correct
+- It's the **most beautiful beach I've never been** to #card #grammar
+	- correct
+- Sean's **the worse** actor in the group #card #grammar
+	- correct
+- What's **the nicest** thing ayone's ever said to you? #card #grammar
+	- correct
+- Personally, I think that Barcelona is **the best city** of the world #card #grammar
+	- correct
+- Wich sofa is **more cheaper**? #card #grammar
+	- wrong. Cheaper
+- I think we should take this case. It's **the biggest one** that we have #card #grammar
+	- wrong. Bigger
+- It's ussually **hoter** here in June than it's in May #card #grammar
+	- wrong. more hot
+- Did you go to **the same school** than your brother? #card #grammar
+	- correct
+- That restuarant over there is fantastic. It's cheap an you can eat **as much food as** you like #card #grammar
+	- correct
+- It took me ages to walk there. It was **further than** I thought #card #grammar
+	- wrong. Further away
+-
