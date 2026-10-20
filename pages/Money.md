@@ -1,46 +1,54 @@
 - be worth #card #Money
-  - Valer
+	- Valer
 - borrow #card #Money
-  - Pedir prestado
+	- Pedir prestado
 - can't afford #card #Money
-  - No poder permitirse (económicamente)
+	- No poder permitirse (económicamente)
 - charge #card #Money
-  - Cobrar
+	- Cobrar
 - cost #card #Money
-  - Costar
+	- Costar
 - earn #card #Money
-  - Ganar (dinero por trabajo o inversión)
+	- Ganar (dinero por trabajo o inversión)
 - inherit #card #Money
-  - Heredar
+	- Heredar
 - invest #card #Money
-  - Invertir
+	- Invertir
 - lend #card #Money
-  - Prestar
+	- Prestar
 - owe #card #Money
-  - Deber
+	- Deber
 - raise #card #Money
-  - Recaudar
+	- Recaudar
 - save #card #Money
-  - Ahorrar
+	- Ahorrar
 - transfer #card #Money
-  - Transferir
+	- Transferir
 - waste #card #Money
-  - Desperdiciar / Malgastar
+	- Desperdiciar / Malgastar
 - account #card #Money
-  - Cuenta
+	- Cuenta
 - bill #card #Money
-  - Factura / Cuenta
+	- Factura / Cuenta
 - budget #card #Money
-  - Presupuesto
+	- Presupuesto
 - contactless #card #Money
-  - Sin contacto (pagos)
+	- Sin contacto (pagos)
 - donation #card #Money
-  - Donación
+	- Donación
 - insurance #card #Money
-  - Seguro
+	- Seguro
 - loan #card #Money
-  - Préstamo
+	- Préstamo
 - mortgage #card #Money
-  - Hipoteca
+	- Hipoteca
 - tax #card #Money
-  - Impuesto
+	- Impuesto
+- live off #card #Money
+	- Vivir de
+- pay back #card #Money
+	- devolver (dinero)
+- debt #card #Money
+	- débito / deber (dinero)
+-
+-

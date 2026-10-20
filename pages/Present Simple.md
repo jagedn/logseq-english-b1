@@ -1,42 +1,40 @@
-- ## When to Use It
+## When to Use It
 	- Daily routines and habitual actions.
 	- General truths and scientific facts.
 	- Permanent situations.
 	- Fixed timetables and schedules (trains, scheduled events, etc.).
 - ## Grammatical Structure
-  - ### Affirmative
-    - **Structure:** `Subject + Verb (base form) (+ -s/-es for 3rd person singular)`
-    - *Note:* Add **-s** or **-es** to the base verb when the subject is **he**, **she**, or **it**.
-  - ### Negative
-    - **Structure:** `Subject + do not / does not + Verb (base form)`
-    - *Note:* `do not` -> `don't`, `does not` -> `doesn't`. The main verb returns to its base form without **-s**.
-  - ### Interrogative
-    - **Structure:** `Do / Does + Subject + Verb (base form) + ?`
-
+	- ### Affirmative
+		- **Structure:** `Subject + Verb (base form) (+ -s/-es for 3rd person singular)`
+		- *Note:* Add **-s** or **-es** to the base verb when the subject is **he**, **she**, or **it**.
+	- ### Negative
+		- **Structure:** `Subject + do not / does not + Verb (base form)`
+		- *Note:* `do not` -> `don't`, `does not` -> `doesn't`. The main verb returns to its base form without **-s**.
+	- ### Interrogative
+		- **Structure:** `Do / Does + Subject + Verb (base form) + ?`
 - ## Examples
-  - She **walks** to work every day.
-  - Water **boils** at 100°C.
-  - They **don't like** spicy food.
-  - **Does** he **live** in Madrid?
-
+	- She **walks** to work every day.
+	- Water **boils** at 100°C.
+	- They **don't like** spicy food.
+	- **Does** he **live** in Madrid?
 - ## Practice Flashcards #card #verbs
-  - When do we add **-s** or **-es** to the verb in an affirmative sentence in Present Simple? #card #verbs
-    - Only with third-person singular subjects (**he**, **she**, **it**).
-  - Translate to English using Present Simple: "Ella no come carne". #card #verbs
-    - She **doesn't eat** meat.
-  - What is the structure of a question in Present Simple? #card #verbs
-    - **Do / Does** + Subject + Verb (base form) + rest of the sentence?
-  - Correct the error in this sentence: *"Does he likes ice cream?"* #card #verbs
-    - Incorrect. The correct sentence is: *"Does he **like** ice cream?"* (when using the auxiliary verb *does*, the main verb remains in its base form).
-  - Which auxiliary verb is used for negative sentences with *I / You / We / They*? #card #verbs
-    - **Do not** (or the contraction **don't**).
-  - How do you spell the 3rd person singular affirmative of the verb **fly**? #card #verbs
-    - **flies** (verbs ending in consonant + *y* drop the *y* and add *-ies*).
-  - How do you spell the 3rd person singular affirmative of the verb **watch**? #card #verbs
-    - **watches** (verbs ending in *-ch*, *-sh*, *-s*, *-x*, *-z*, or *-o* add *-es*).
-  - Where do adverbs of frequency (e.g., *always*, *never*, *usually*) go in a sentence? #card #verbs
-    - **Before** the main verb, but **after** the verb *to be* (e.g., *She **always** arrives early* vs. *She **is always** early*).
-  - How does the verb **to be** (am/is/are) behave in the Present Simple compared to regular verbs? #card #verbs
-    - It does **not** use *do/does* for negatives or questions (e.g., *She is not...* / *Are you...?*).
-  - Translate to English: "¿A qué hora te levantas normalmente?" #card #verbs
-    - What time **do you usually get up**?
+	- When do we add **-s** or **-es** to the verb in an affirmative sentence in Present Simple? #card #verbs
+		- Only with third-person singular subjects (**he**, **she**, **it**).
+	- Translate to English using Present Simple: "Ella no come carne". #card #verbs
+		- She **doesn't eat** meat.
+	- What is the structure of a question in Present Simple? #card #verbs
+		- **Do / Does** + Subject + Verb (base form) + rest of the sentence?
+	- Correct the error in this sentence: *"Does he likes ice cream?"* #card #verbs
+		- Incorrect. The correct sentence is: *"Does he **like** ice cream?"* (when using the auxiliary verb *does*, the main verb remains in its base form).
+	- Which auxiliary verb is used for negative sentences with *I / You / We / They*? #card #verbs
+		- **Do not** (or the contraction **don't**).
+	- How do you spell the 3rd person singular affirmative of the verb **fly**? #card #verbs
+		- **flies** (verbs ending in consonant + *y* drop the *y* and add *-ies*).
+	- How do you spell the 3rd person singular affirmative of the verb **watch**? #card #verbs
+		- **watches** (verbs ending in *-ch*, *-sh*, *-s*, *-x*, *-z*, or *-o* add *-es*).
+	- Where do adverbs of frequency (e.g., *always*, *never*, *usually*) go in a sentence? #card #verbs
+		- **Before** the main verb, but **after** the verb *to be* (e.g., *She **always** arrives early* vs. *She **is always** early*).
+	- How does the verb **to be** (am/is/are) behave in the Present Simple compared to regular verbs? #card #verbs
+		- It does **not** use *do/does* for negatives or questions (e.g., *She is not...* / *Are you...?*).
+	- Translate to English: "¿A qué hora te levantas normalmente?" #card #verbs
+		- What time **do you usually get up**?

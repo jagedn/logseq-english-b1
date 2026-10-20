@@ -23,27 +23,18 @@
 	- **Short verbs (CVC - Consonant + Vowel + Consonant):** Double the final consonant (e.g., *run* -> *running*, *stop* -> *stopping*).
 	- **Verbs ending in -ie:** Change *-ie* to *-y* + *-ing* (e.g., *die* -> *dying*, *lie* -> *lying*).
 - ## Practice Flashcards #card #verbs
+  collapsed:: true
 	- What is the basic structure of an affirmative sentence in Present Continuous? #card #verbs
-	  card-last-interval:: 4
-	  card-repeats:: 1
-	  card-ease-factor:: 2.6
-	  card-next-schedule:: 2026-10-22T09:43:48.925Z
-	  card-last-reviewed:: 2026-10-18T09:43:48.925Z
-	  card-last-score:: 5
 		- **Subject + am/is/are + Verb (-ing)**.
 	- When do we use Present Continuous for future plans? #card #verbs
+	  collapsed:: true
 		- For **fixed arrangements** with a specific time or place already planned.
 	- How do you spell the *-ing* form of the verb **make**? #card #verbs
+	  collapsed:: true
 		- **making** (drop the final *-e* before adding *-ing*).
 	- How do you spell the *-ing* form of the verb **sit**? #card #verbs
 		- **sitting** (double the final consonant in single-syllable CVC verbs).
 	- What are stative verbs and can they be used in Present Continuous? #card #verbs
-	  card-last-interval:: 4
-	  card-repeats:: 1
-	  card-ease-factor:: 2.36
-	  card-next-schedule:: 2026-10-22T09:42:52.328Z
-	  card-last-reviewed:: 2026-10-18T09:42:52.328Z
-	  card-last-score:: 3
 		- Stative verbs express states, emotions, or possession (e.g., *know*, *love*, *belong*). They are generally **not** used in continuous tenses.
 	- Correct the error in this sentence: *"I am knowing the answer."* #card #verbs
 		- Incorrect. *Know* is a stative verb. The correct form is: *"I **know** the answer."*
