@@ -21,7 +21,7 @@
 - She will probably win the race. (Prediction)
 - We won't forget this trip. (Promise/Intention)
 - Shall we start the meeting now? (Suggestion/Formal offer)
-- ## Practice Flashcards #card #verbs
+- ## Practice Flashcards
 - When do we use will instead of be going to? #card #verbs
 	- Use *will* for spontaneous decisions and predictions (based on opinion), whereas *be going to* is used for pre-planned intentions or predictions based on current evidence.
 - What is the structure of an affirmative sentence using will? #card #verbs

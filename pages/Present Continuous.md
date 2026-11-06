@@ -22,7 +22,7 @@
 	- **Verbs ending in silent -e:** Drop *-e* and add *-ing* (e.g., *write* -> *writing*).
 	- **Short verbs (CVC - Consonant + Vowel + Consonant):** Double the final consonant (e.g., *run* -> *running*, *stop* -> *stopping*).
 	- **Verbs ending in -ie:** Change *-ie* to *-y* + *-ing* (e.g., *die* -> *dying*, *lie* -> *lying*).
-- ## Practice Flashcards #card #verbs
+- ## Practice Flashcards
   collapsed:: true
 	- What is the basic structure of an affirmative sentence in Present Continuous? #card #verbs
 		- **Subject + am/is/are + Verb (-ing)**.

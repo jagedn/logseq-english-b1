@@ -17,7 +17,7 @@
 	- Water **boils** at 100°C.
 	- They **don't like** spicy food.
 	- **Does** he **live** in Madrid?
-- ## Practice Flashcards #card #verbs
+- ## Practice Flashcards
 	- When do we add **-s** or **-es** to the verb in an affirmative sentence in Present Simple? #card #verbs
 		- Only with third-person singular subjects (**he**, **she**, **it**).
 	- Translate to English using Present Simple: "Ella no come carne". #card #verbs

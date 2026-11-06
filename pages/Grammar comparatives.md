@@ -16,7 +16,7 @@
 	- wrong. More modern
 - I love riding my scooter, it's **more better than** driving a car #card #grammar
 	- wrong. Better
-- Can you say that again *more slowly**, plese? #card #grammar
+- Can you say that again **more slowly**, plese? #card #grammar
 	- correct
 - It's the **most beautiful beach I've never been** to #card #grammar
 	- correct
